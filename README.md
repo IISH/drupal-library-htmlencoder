@@ -1,1 +1,1 @@
-# drupal-library-htmlencoder
+# drupal-library-htmlencoder (for filedepot)
